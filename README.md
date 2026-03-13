@@ -1,4 +1,6 @@
-![Coding GIF](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif" width="400"/>
+</p>
 
 # Hi, I'm Ansharah Khan 👩‍💻
 
